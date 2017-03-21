@@ -1,0 +1,12 @@
+{
+  "name": "scrolly",
+  "version": "1.0.0",
+  "description": "HTML5UP scolly",
+  "keywords": [ "scrolly", "html5" ],
+  "homepage": "http://github.com/professorzumbi/scrolly",
+  "repository": { "type": "git",
+                  "url": "https://github.com/professorzumbi/scrolly"
+                },
+  "license": "MIT",
+  "main": "./scrolly.js"
+}
